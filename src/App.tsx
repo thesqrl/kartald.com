@@ -22,7 +22,7 @@ function App() {
           className="muted"
           style={{ marginTop: 10, fontSize: 13, lineHeight: 1.5, maxWidth: 560 }}
         >
-          Explore TV series ratings in a clean, sortable grid — built on AWS (leveraging multiple services).
+          A web app for exploring TV series ratings in a grid format — TV episode ratings at a glance. See IMDb ratings for every episode in a clean table.
         </p>
       </section>
     </main>
