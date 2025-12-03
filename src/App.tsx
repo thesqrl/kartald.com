@@ -9,11 +9,11 @@ function App() {
         </header>
         <a
           className="project"
-          href="https://showox.xyz"
+          href="https://showox.kartald.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          showox.xyz
+          showox
           <span className="arrow" aria-hidden>
             →
           </span>
